@@ -1,0 +1,6 @@
+@Hexagonale.Movies.API_HostAddress = http://localhost:5116
+
+GET {{Hexagonale.Movies.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
